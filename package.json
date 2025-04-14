@@ -1,5 +1,5 @@
 {
-  "name": "@opentoyapp/commit-convention",
+  "name": "@opentoyapp/create-commit-convention",
   "version": "1.0.0",
   "author": "Lee Jae Yeol <opentoyapp@gmail.com> (https://github.com/opentoyapp)",
   "bin": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "github",
-    "url": "https://github.com/opentoyapp/commit-convention.git"
+    "url": "https://github.com/opentoyapp/create-commit-convention.git"
   },
   "keywords": [
     "create",
@@ -19,7 +19,7 @@
   "description": "I got tired of manually installing `husky`, `commitlint`, `commitizen`, etc. with `npm i -D blah blah ...` every time I set up a new project, so I created this module.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/opentoyapp/commit-convention/issues"
+    "url": "https://github.com/opentoyapp/create-commit-convention/issues"
   },
-  "homepage": "https://github.com/opentoyapp/commit-convention#readme"
+  "homepage": "https://github.com/opentoyapp/create-commit-convention#readme"
 }
